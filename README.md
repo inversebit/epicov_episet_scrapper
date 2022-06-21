@@ -1,3 +1,6 @@
+# What's this script
+A simple python script that uses BeautifulSoup to parse the webpage with virus sample data at https://epicov.org/epi3/epi_set/EPI_SET_20220616yx?main=true. It writes the data in a CSV file in order to make it easier to work with.
+
 # Running the script (unix/macOS)
 Follow these instructions if the ones in this file don't work or if use a windows system: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
 
