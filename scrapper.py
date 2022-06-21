@@ -1,3 +1,9 @@
+# Copyright 2022 Inversebit
+#
+# Use of this source code is governed by an MIT-style
+# license that can be found in the LICENSE file or at
+# https://opensource.org/licenses/MIT.
+
 import requests
 import json
 import time
